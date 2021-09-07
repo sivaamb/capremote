@@ -18,8 +18,7 @@ add code in feature branch at local.
 I am working on new featue.....  
 
 i fixed issues....
-hffhfdfhdjfhjdshfjdshjfhjkds
 
-666666666666666666666666
+Modify locally to test conflicts....
 
 
